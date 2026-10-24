@@ -1,0 +1,8 @@
+{
+  "name": "vuong quoc toan hoc lop 2 tap 1",
+  "description": "Ứng dụng học Toán tương tác chuẩn SGK Toán 2 Tập 1 Kết Nối Tri Thức với gia sư AI Robo Toán, lộ trình 36 bài học, thực hành trực quan và trò chơi giáo dục.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
